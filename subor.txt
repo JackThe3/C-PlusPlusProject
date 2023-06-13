@@ -1,0 +1,25 @@
+asfaskhgnk;ajgniaslhba;
+55
+;;
+shsd;hshs546hs;hsdh
+
+Hobbit Cesta;2012;FANTASY;D:P.Jackson;A:Martin Freeman,Ian McKellen
+Hobbit Drak;2014;FANTAsY;D:P.Jackson
+
+Hobbit Drak;2014;FANTAsY
+
+55
+
+
+Hobbit Drak;2014;FANTAsY
+
+Lord of War;2005;DRAMA
+Logan;2017;DRAMA
+
+Lord of Ring;2002;FANTAsY
+STAR WARS;2019;SCIFI
+The Lion King;1994;mUsIcAl
+The Lion King;2019;MUSICAL
+
+Terminator 2: Judgment Day;1991;ACTION;A:Arnold Schwarzenegger
+Total Recall;1990;ACTION;A:Arnold Schwarzenegger
